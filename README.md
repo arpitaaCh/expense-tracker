@@ -1,6 +1,5 @@
 # Expense Tracker
 
-A simple Python expense tracker for beginners.
 
 ## Features
 
